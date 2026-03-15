@@ -1,4 +1,4 @@
-# 💻 Dynamic Pricer
+# 💻 Options Pricer for a PPPN and an Airbag Note 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
